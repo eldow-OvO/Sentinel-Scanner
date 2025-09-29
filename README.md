@@ -12,7 +12,7 @@ This repository contains the Payload Mutation Engine (Phase 1 prototype), includ
 
 ```bash
 # clone
-git clone https://github.com/<your-username>/sentinel-scanner.git
+git clone https://github.com/eldow-OvO/Sentinel-Scanner.git
 cd sentinel-scanner
 
 # create venv
